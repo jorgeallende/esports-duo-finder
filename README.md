@@ -31,7 +31,7 @@ Nesse projeto você encontrará fragmentos de diversas tecnologias que compõe o
 
 ## Demo
 
-	[esports-duo-finder.vercel.app](https://esports-duo-finder.vercel.app)
+[Live Demo](https://esports-duo-finder.vercel.app)
 
 <img align="center" src="https://user-images.githubusercontent.com/81594960/191106063-45e12dab-69db-4201-88b1-f113236b17c0.png">
 <img align="center" src="https://user-images.githubusercontent.com/81594960/191106111-1de627da-f7f7-41c1-bbf7-25bf8b472df8.png">
